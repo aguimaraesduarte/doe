@@ -1,4 +1,4 @@
-setwd(dir = "/Users/ntstevens/Dropbox/Teaching/MSAN_631/2017/Lectures/")
+setwd(dir = "~/Desktop/design-of-experiments/")
 
 data <- read.csv(file = "instagram.csv", header = T)
 A <- data$A
